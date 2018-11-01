@@ -19,17 +19,25 @@
 
 // Command+ / = comment and uncomment
 //LET
-var name = 'John Doe';
-console.log(name);
-// var can be changed
-name = 'Jake Rockson';
-console.log(name);
+// var name = 'John Doe';
+// console.log(name);
+// // var can be changed
+// name = 'Jake Rockson';
+// console.log(name);
 
 // String
  const name = 'John D';
  // Number
  const age = 45;
  //boolean
- const = has kid = true;
- 
+//  const hasskid = true;
+//  console.log(typeof hasskid);
+
+ // null
+//  const car = null;
+//  console.log(typeof car);
+
+// undefined
+let test;
+console.log(typeof test);
 
